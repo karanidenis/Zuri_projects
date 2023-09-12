@@ -22,7 +22,7 @@ python3 endpoint.py
 Then, navigate to `http://localhost:5000/endpoint?slack_name=exampple&track=Frontend` on your browser to access the API.
 
 ## Author
-- [Karani Denis](https://github.com/karanidenis/Zuri_projects/tree/main) - Full Stack Developer (Python, Flask, React, SQL, Docker, CI/CD e.t.c) 
+- [Karani Denis](https://github.com/karanidenis) - Full Stack Developer (Python, Flask, React, SQL, Docker, CI/CD e.t.c) 
 
 ## Acknowledgments
 - [Zuri Team](https://internship.zuri.team/) - For the opportunity to work on this project.
