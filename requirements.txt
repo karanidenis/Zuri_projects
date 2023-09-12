@@ -1,5 +1,4 @@
-flask
-pytz
-datetime
-# from flask import Flask, request, jsonify
-flask_cors
+Flask==2.2.3
+pytz==2023.3.post1
+datetime==5.2
+flask_cors==4.0.0
