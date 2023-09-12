@@ -13,6 +13,10 @@ pip install -r requirements.txt
 ```
 After installing the dependencies, run the following command in your terminal:
 ```bash
+chmod +x endpoint.py
+```
+Then, run the following command to start the server:
+```bash
 python3 endpoint.py
 ```
 Then, navigate to `http://localhost:5000/endpoint?slack_name=exampple&track=Frontend` on your browser to access the API.
